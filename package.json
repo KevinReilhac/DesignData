@@ -17,7 +17,7 @@
   },
   "samples": [
     {
-      "displayName": "Script template",
+      "displayName": "ScriptTemplates",
       "description": "Create DesignData from CreateAssetMenu, Move ScriptTemplate folder in Asset folder and restart editor",
       "path": "Samples~/ScriptTemplates"
     }
