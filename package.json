@@ -1,6 +1,6 @@
 {
   "name": "com.kebab.design_data",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "displayName": "DesignData",
   "description": "Store and Create design data files",
   "documentationUrl": "https://example.com/",
@@ -8,13 +8,19 @@
   "licensesUrl": "https://example.com/licensing.html",
   "keywords": [],
   "author": {
-    "name": "Kévin \"Kebab\" Reilhac",
+    "name": "K\u00e9vin \"Kebab\" Reilhac",
     "email": "kevin.reilhac.pro@gmail.com",
     "url": "https://www.unity3d.com"
   },
   "dependencies": {
-	  "com.kebab.custom_managers": ""
+    "com.kebab.custom_managers": ""
   },
-  "samples": [],
+  "samples": [
+    {
+      "displayName": "Script template",
+      "description": "Create DesignData from CreateAssetMenu",
+      "path": "Samples~/DesignDataScriptTemplate"
+    }
+  ],
   "hideInEditor": false
 }
