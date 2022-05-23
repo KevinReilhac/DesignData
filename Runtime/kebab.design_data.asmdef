@@ -1,0 +1,16 @@
+{
+    "name": "kebab.design_data",
+    "rootNamespace": "",
+    "references": [
+        "GUID:c83399457a84dce48873766616e4bda0"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
